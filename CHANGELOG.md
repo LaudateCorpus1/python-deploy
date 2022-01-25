@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/googleapis/python-deploy/compare/v1.0.0...v1.1.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#35](https://github.com/googleapis/python-deploy/issues/35)) ([aaa957f](https://github.com/googleapis/python-deploy/commit/aaa957f2673db673c3a8e38275d4689323ded044))
+
 ## [1.0.0](https://www.github.com/googleapis/python-deploy/compare/v0.3.0...v1.0.0) (2021-11-01)
 
 
